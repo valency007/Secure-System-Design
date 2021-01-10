@@ -1,9 +1,3 @@
-Welcome to SkyNet :: Commanding the Legion
-Part 2 :: Protecting the Castle
-
-PS: This code sub-repository contains Part 1 + Part 2
-======================================================
-
 Usage -- uploading and viewing secrets
 ======================================
 
